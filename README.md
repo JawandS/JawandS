@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JawandS
-- 👀 I’m interested in Entrepreneruship, business, and CS
-- 🌱 I’m currently learning Java data structures in school, and python on my own
+- 👀 I’m interested in CS and Entrepreneruship
+- 🌱 I’m currently learning about Artificial Intelligence in python at school, as well as mobile app dev with Android Studio
 - 📫 How to reach me:linkedin.com/in/jawand/
 
 <!---
