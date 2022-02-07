@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JawandS
 - 👀 I’m interested in exploring various parts of the CS world 
-- 🌱 I’m currently learning about Artificial Intelligence in python at school, as well as mobile app dev with Android Studio
+- 🌱 I’m currently learning about Artificial Intelligence in python at school, as well as web dev with HTML, CSS, and JavaScript
 - 📫 How to reach me:linkedin.com/in/jawand/
 
 <!---
