@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JawandS
-- 👀 I’m interested in exploring various parts of the CS world 
-- 🌱 I’m currently learning about Artificial Intelligence in python at school, as well as web dev with HTML, CSS, and JavaScript
-- 📫 How to reach me:linkedin.com/in/jawand/
+- 👀 I’m interested in machine learning, data science, and serverless 
+- 🌱 I’m currently taking AI in Python and web dev at school
+- 📫 How to reach me: linkedin.com/in/jawand/
 
 <!---
 JawandS/JawandS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
