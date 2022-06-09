@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JawandS
 - 👀 I’m interested in machine learning, data science, and serverless 
-- 🌱 I’m currently taking AI in Python and web dev at school
 - 📫 How to reach me: linkedin.com/in/jawand/
 
 <!---
