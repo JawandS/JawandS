@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JawandS
-- 👀 I’m interested in machine learning, data science, and serverless 
+- 👀 I’m interested in machine learning and BPF
 - 📫 How to reach me: linkedin.com/in/jawand/
 
 <!---
