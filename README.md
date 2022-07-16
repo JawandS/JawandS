@@ -5,8 +5,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JawandS&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=react&hide_border=true" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JawandS&hide=html,cmake,css,scss,powershell,assembly&theme=apprentice&langs_count=10&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JawandS&hide_border=true&theme=react" width = 420 >
 </p>
 
 <!---
