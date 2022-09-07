@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JawandS
-- 👀 I’m interested in machine learning and BPF
+- 👀 I’m exploring hte Unix scheduler
 - 📫 How to reach me: linkedin.com/in/jawand/
 
 <p align = "center">
