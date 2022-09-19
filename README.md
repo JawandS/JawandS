@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JawandS
-- 👀 I’m exploring hte Unix scheduler
+- 👀 I’m exploring the Linux scheduler
 - 📫 How to reach me: linkedin.com/in/jawand/
 
 <p align = "center">
